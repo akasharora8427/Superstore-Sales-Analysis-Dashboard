@@ -28,7 +28,7 @@ Using Power BI, we created an interactive dashboard to visualize and analyze:
 ## 🛠️ Tools & Technologies
 
 - **Power BI**: For creating the interactive dashboard
-- **Microsoft Excel** or CSV: For preprocessing (if applicable)
+- **Microsoft Excel** or CSV: For preprocessing 
 - **DAX**: For calculated metrics and KPIs
 
 ## 📌 Key KPIs
