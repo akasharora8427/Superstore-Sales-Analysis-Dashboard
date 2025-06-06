@@ -22,7 +22,7 @@ Using Power BI, we created an interactive dashboard to visualize and analyze:
 ## 📂 File Structure
 - ├── Dashboard.pbix # Power BI report file
 - ├── README.md # Project description
-- ├── /data (optional) # Original or preprocessed dataset (if included)
+- ├── SuperStore_Sales_Dataset.csv # Raw Data (csv format)
 
 
 ## 🛠️ Tools & Technologies
